@@ -1,1 +1,3 @@
 streamlit-TTS
+python-dotenv
+openai
